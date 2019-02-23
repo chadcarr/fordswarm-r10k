@@ -1,8 +1,8 @@
 forge 'https://forge.puppet.com'
 
-mod 'puppetlabs/stdlib'
-mod 'puppetlabs/translate'
-mod 'puppetlabs/apt'
+mod 'puppetlabs/stdlib', '5.1.0'
+mod 'puppetlabs/translate', '1.1.0'
+mod 'puppetlabs/apt', '6.2.1'
 mod 'puppetlabs/powershell'
 mod 'puppetlabs/reboot'
-mod 'puppetlabs/docker'
+mod 'puppetlabs/docker', '3.3.0'
